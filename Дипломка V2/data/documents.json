@@ -1,0 +1,32 @@
+[
+  {
+    "id": "d-2",
+    "title": "Отчет по практике",
+    "description": "Учебный отчет по практике",
+    "type": "study",
+    "fileName": null,
+    "originalName": null,
+    "authorId": "u-teacher",
+    "createdAt": "2026-05-29T15:03:08.273Z"
+  },
+  {
+    "id": "d-1780067445515",
+    "title": "Фото",
+    "description": "Фото",
+    "type": "study",
+    "fileName": "1780067445444-6324504276.jpg",
+    "originalName": "6324504276.jpg",
+    "authorId": "u-1780067380082",
+    "createdAt": "2026-05-29T15:10:45.515Z"
+  },
+  {
+    "id": "d-1780069865518",
+    "title": "Техническое письмо",
+    "description": "Отчет по оборудованию",
+    "type": "admin",
+    "fileName": null,
+    "originalName": null,
+    "authorId": "u-admin",
+    "createdAt": "2026-05-29T15:51:05.603Z"
+  }
+]

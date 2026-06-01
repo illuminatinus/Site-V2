@@ -1,0 +1,43 @@
+[
+    {
+        "id":  "u-admin",
+        "name":  "Администратор",
+        "email":  "admin@vatk.kz",
+        "password":  "admin123",
+        "role":  "admin",
+        "createdAt":  "2026-05-29T15:03:08.274Z"
+    },
+    {
+        "id":  "u-teacher",
+        "name":  "Aida Bek",
+        "email":  "teacher@vatk.kz",
+        "password":  "teacher123",
+        "role":  "teacher",
+        "createdAt":  "2026-05-29T15:03:08.274Z"
+    },
+    {
+        "id":  "u-student",
+        "name":  "Nursultan S.",
+        "email":  "student@vatk.kz",
+        "password":  "student123",
+        "role":  "student",
+        "createdAt":  "2026-05-29T15:03:08.274Z"
+    },
+    {
+        "id":  "u-secretary",
+        "name":  "Секретарь",
+        "email":  "secretary@vatk.kz",
+        "password":  "secretary123",
+        "role":  "secretary",
+        "createdAt":  "2026-05-29T15:03:08.274Z"
+    },
+    {
+        "id":  "u-1780067380082",
+        "name":  "Касымов Мансур Асанович",
+        "email":  "kasimovmansurasanovich@gmail.com",
+        "password":  "uiop0987u",
+        "role":  "admin",
+        "createdAt":  "2026-05-29T15:09:40.082Z",
+        "group":  "41 БК"
+    }
+]
